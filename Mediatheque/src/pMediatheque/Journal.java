@@ -7,6 +7,8 @@ package pMediatheque;
 
 //comm de azize
 
+//test
+
 public class Journal extends Media{
 	private String periodicite;
 
