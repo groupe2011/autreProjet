@@ -2,6 +2,8 @@ package pMediatheque;
 //commentaire
 //autre commentaire
 
+// commentaire de zakaryae
+
 public class Journal extends Media{
 	private String periodicite;
 
