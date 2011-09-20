@@ -3,6 +3,7 @@ package pMediatheque;
 public class Media implements Comparable<Media>{
 	private int code;
 	private String type;
+	//**** j'ai modifier **///
 	
 	public Media(int code, String type) {
 		// TODO Auto-generated constructor stub
