@@ -1,14 +1,6 @@
 package pMediatheque;
-//commentaire
-//autre commentaire
-//ewa bzzaf un autre commentaire
 
-// commentaire de zakaryae
-
-//comm de azize
-
-//test
-
+// et oui sa marche ^_^
 public class Journal extends Media{
 	private String periodicite;
 
