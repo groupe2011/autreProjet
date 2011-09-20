@@ -1,4 +1,6 @@
 package pMediatheque;
+//commentaire
+//autre commentaire
 
 public class Journal extends Media{
 	private String periodicite;
