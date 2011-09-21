@@ -3,6 +3,7 @@ package pMediatheque;
 
 // salut c le commentaire de oumallouk héhé
 // ok c bien rachid *_*
+// hadchi zinnnn
 // alors daba sa marche
 // et oui sa marche ^_^
 public class Journal extends Media{
