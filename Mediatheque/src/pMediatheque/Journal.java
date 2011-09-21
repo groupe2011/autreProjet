@@ -2,6 +2,7 @@ package pMediatheque;
 
 
 // salut c le commentaire de oumallouk héhé
+// ok c bien rachid *_*
 // et oui sa marche ^_^
 public class Journal extends Media{
 	private String periodicite;
